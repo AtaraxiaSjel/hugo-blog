@@ -48,3 +48,7 @@ menu:
 
 taxonomies:
   tag: tags
+
+caches:
+  images:
+    dir: :cacheDir/images
