@@ -1,0 +1,50 @@
+baseURL: "https://ataraxiadev.com"
+languageCode: "en-us"
+title: "The Impermanent Log"
+theme: ["PaperMod"]
+
+params:
+  title: "The Impermanent Log"
+  description: "AtaraxiaDev's blog about technical solutions and experiments"
+  keywords: [Blog, Portfolio]
+
+  author: Me
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # auto, dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  # ShowToc: true
+  hideFooter: true
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: "This blog is a personal log of technical solutions and experiments, focusing primarily on the Nix ecosystem and self-hosted services."
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/AtaraxiaSjel"
+    - name: "email"
+      url: "mailto:ataraxiadev@ataraxiadev.com"
+
+  cover:
+    responsiveImages: false
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+
+taxonomies:
+  tag: tags
