@@ -20,11 +20,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1751984180,
-        "narHash": "sha256-LwWRsENAZJKUdD3SpLluwDmdXY9F45ZEgCb0X+xgOL0=",
+        "lastModified": 1775036866,
+        "narHash": "sha256-ZojAnPuCdy657PbTq5V0Y+AHKhZAIwSIT2cb8UgAz/U=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "9807714d6944a957c2e036f84b0ff8caf9930bc0",
+        "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
         "type": "github"
       },
       "original": {
@@ -37,11 +37,11 @@
     "paper-mod": {
       "flake": false,
       "locked": {
-        "lastModified": 1748062709,
-        "narHash": "sha256-XlxkAfGY59V5KqLoIJdxbHgtK4vqWXMn1GMaFchWhs8=",
+        "lastModified": 1775394063,
+        "narHash": "sha256-5dyMDzV4iLLmaL2tnlMmnfsjaIZ4PSuqumP14gIsYKE=",
         "owner": "adityatelange",
         "repo": "hugo-PaperMod",
-        "rev": "5a4651783fa9159123d947bd3511b355146d4797",
+        "rev": "50745e5e2f1c2c428df44f4155be7852a033899b",
         "type": "github"
       },
       "original": {
